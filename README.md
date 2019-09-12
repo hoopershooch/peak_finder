@@ -1,6 +1,6 @@
 **Программа поиска пиков**
 
-![common view](.\pf1.png)
+![common view](pf1.png)
 
 **Описание**
 
